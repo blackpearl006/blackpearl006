@@ -64,6 +64,7 @@
   </a>
 </p>
 
+![](https://komarev.com/ghpvc/?username=blackpearloo6=PROFILE+VIEWS)
 <!-- TOOLS -->
 ### Tech Stack & Tools
 
