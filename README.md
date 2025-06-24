@@ -64,7 +64,7 @@
   </a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=blackpearloo6=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=blackpearl006&color=green)
 <!-- TOOLS -->
 ### Tech Stack & Tools
 
